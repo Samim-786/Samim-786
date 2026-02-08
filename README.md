@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ElectroCart e-Commarce website<br>👯 I’m looking to collaborate on web development projec<br>🌱 I’m currently learning blockchain and web3<br>💬 Ask me about
+🔭 I’m currently working on ElectroCart e-Commarce website<br>👯 I’m looking to collaborate on web development project<br>🌱 I’m currently learning blockchain and web3<br>💬 Ask me about
 
 
 ## 🌐 Socials:
